@@ -82,5 +82,26 @@ IBM
 fitbit
 Microsoft
 
+singers
+Drake
+trvisXX
+flumemusic
+Beyonce
+lizzo
+coldplay
+justinbieber
+Hozier
+ArianaGrande
+linkinpark
 
-
+actors
+VancityReynolds
+EmmaWatson
+LeoDiCaprio
+AnselElgort
+shailenewoodley
+MayaRudolph
+KevinHart4real
+ReeseW
+TheRock
+colesprouse

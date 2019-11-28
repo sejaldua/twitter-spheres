@@ -19,4 +19,4 @@ do
 		mv output_got.csv "tweets/$category/output_$line.csv"
 		(( counter = counter + 1 ))	
 	fi
-done < sejal_scrape.txt
+done < twitter_accts.txt

@@ -3,6 +3,7 @@ Performing a categorical analysis of Twitter content using an 8 x 10 x 10000 twe
 
 ## the article
 https://medium.com/@sejaldua/analyzing-twitter-spheres-through-nlp-techniques-748b0df10b6c
+![](images_for_blog/featured_on_tds.png)
 
 ## dependencies (A.K.A. pip installs)
 * `bokeh`
